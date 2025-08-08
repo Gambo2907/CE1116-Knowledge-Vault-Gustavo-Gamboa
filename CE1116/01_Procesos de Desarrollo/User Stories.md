@@ -9,14 +9,16 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-Marco de trabajo ágil que se centra en el uso de sprints.
+Es la unidad de trabajo más pequeña en un marco ágil. Es un objetivo final, no una función, expresado desde la perspectiva del usuario del software.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
-## 🔗 Connections
-- [[Entrevistas]]
+## 🔗 Connections 
 - [[Agile]] 
+- [[Scrum]] 
+- [[Taskboard]] 
+
 
 ## 💡 Personal Insight (Opcional)
 - 

@@ -9,14 +9,15 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-Marco de trabajo ágil que se centra en el uso de sprints.
+ Se refiere a una lista de tareas, (usualmente historias de usuario), en el cual el equipo desarrollador deben completar durante un sprint 
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Entrevistas]]
-- [[Agile]] 
+- [[Scrum]]
+- [[Product Backlog]] 
+
 
 ## 💡 Personal Insight (Opcional)
 - 

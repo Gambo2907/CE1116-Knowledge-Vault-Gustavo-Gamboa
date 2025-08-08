@@ -9,14 +9,17 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-Marco de trabajo ágil que se centra en el uso de sprints.
+Son un componente esencial del desarrollo ágil que se enfoca en verificar que las funcionalidades del software cumplan con los requisitos del usuario y se comporten como se espera.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Entrevistas]]
 - [[Agile]] 
+- [[Scrum]] 
+- [[Product Backlog]] 
+- [[Sprint Backlog]] 
+
 
 ## 💡 Personal Insight (Opcional)
 - 

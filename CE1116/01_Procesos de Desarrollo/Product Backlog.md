@@ -9,14 +9,14 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-Marco de trabajo ágil que se centra en el uso de sprints.
+ Se refiere a una lista priorizada de funcionalidades que debe contener un producto.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Entrevistas]]
-- [[Agile]] 
+- [[Scrum]]
+
 
 ## 💡 Personal Insight (Opcional)
 - 

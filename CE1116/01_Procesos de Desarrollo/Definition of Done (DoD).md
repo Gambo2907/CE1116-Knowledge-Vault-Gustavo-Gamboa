@@ -9,14 +9,16 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-Marco de trabajo ágil que se centra en el uso de sprints.
+Son aquellos requisitos que un elemento del Product Backlog y la totalidad del Incremento tienen que cumplir para considerar que el trabajo de desarrollo asociado ha concluido.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
-## 🔗 Connections
-- [[Entrevistas]]
+## 🔗 Connections 
 - [[Agile]] 
+- [[Scrum]] 
+- [[Product Backlog]]  
+
 
 ## 💡 Personal Insight (Opcional)
 - 

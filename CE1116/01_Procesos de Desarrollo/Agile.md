@@ -9,14 +9,13 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-Marco de trabajo ágil que se centra en el uso de sprints.
+Metodología de gestión de proyectos que se centra en la flexibilidad y la adaptabilidad para responder rápidamente a los cambios.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
 - [[Entrevistas]]
-- [[Agile]] 
 
 ## 💡 Personal Insight (Opcional)
 - 

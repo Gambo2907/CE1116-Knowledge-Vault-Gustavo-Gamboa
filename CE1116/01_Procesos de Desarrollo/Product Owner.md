@@ -9,14 +9,16 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-Marco de trabajo ágil que se centra en el uso de sprints.
+ Rol clave en la metodología agile - scrum, se encarga de maximizar el valor de un producto liderando el product backlog y además de trabajar con el equipo de desarrollo
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Entrevistas]]
-- [[Agile]] 
+- [[Scrum]] 
+- [[Agile]]
+- [[Product Backlog]] 
+
 
 ## 💡 Personal Insight (Opcional)
 - 

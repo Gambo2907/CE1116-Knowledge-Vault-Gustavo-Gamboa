@@ -9,14 +9,14 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-Marco de trabajo ágil que se centra en el uso de sprints.
+ Herramienta visual que ayuda a los equipos Scrum a gestionar y visualizar el progreso del trabajo durante un sprint.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
-## 🔗 Connections
-- [[Entrevistas]]
-- [[Agile]] 
+## 🔗 Connections 
+- [[Scrum]] 
+
 
 ## 💡 Personal Insight (Opcional)
 - 

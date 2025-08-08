@@ -9,14 +9,15 @@ Topic:
 
 
 ## 📚 Idea/Concepto 
-Marco de trabajo ágil que se centra en el uso de sprints.
+ Se refiere a la cantidad de trabajo que un equipo puede completar en un período de tiempo definido, generalmente un sprint.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Entrevistas]]
 - [[Agile]] 
+- [[Scrum]] 
+
 
 ## 💡 Personal Insight (Opcional)
 - 

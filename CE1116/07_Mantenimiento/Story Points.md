@@ -3,20 +3,20 @@ Fecha de creación: 2025-08-05 00:00
 Fecha de Modificación: 2025-08-05 00:00
 tags:
   - "#ingeniería-de-software"
-Topic:
-  - procesos-desarrollo
+Topic: []
 ---
 
 
 ## 📚 Idea/Concepto 
-Marco de trabajo ágil que se centra en el uso de sprints.
+ Se definen como una unidad de medida utilizada principalmente en la gestión de proyectos ágiles de la metodología Scrum. Se utilizan para estimar la carga de trabajo global de los equipos, con el fin de planificar cada sprint o iteración.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Entrevistas]]
 - [[Agile]] 
+- [[Scrum]] 
+
 
 ## 💡 Personal Insight (Opcional)
 - 
