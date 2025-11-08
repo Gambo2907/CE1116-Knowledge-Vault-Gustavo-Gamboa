@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Conceptos Generales de Ingeniería/Throughput.md",
+                "file": "11_Conceptos de Arquitectura/Arquitectura de Software Microkernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Throughput"
+              "title": "Arquitectura de Software Microkernel"
             }
           }
         ]
@@ -171,10 +171,17 @@
   },
   "active": "0e0e0b36253145c8",
   "lastOpenFiles": [
+    "11_Conceptos de Arquitectura/Acoplamiento en Desarrollo de Software.md",
+    "11_Conceptos de Arquitectura/Cohesión en Desarrollo de Software.md",
+    "11_Conceptos de Arquitectura/Arquitectura de Software Microkernel.md",
+    "11_Conceptos de Arquitectura/Broker en Arquitectura Event Driver.md",
+    "11_Conceptos de Arquitectura/Arquitectura Event Driver.md",
+    "11_Conceptos de Arquitectura/Arquitectura en Capas.md",
     "10_Conceptos Generales de Ingeniería/Latencia.md",
-    "10_Conceptos Generales de Ingeniería/Throughput.md",
-    "10_Conceptos Generales de Ingeniería/Disponibilidad de la Aplicación.md",
     "10_Conceptos Generales de Ingeniería/Trade off en el diseño y arquitectura de software.md",
+    "10_Conceptos Generales de Ingeniería/Throughput.md",
+    "11_Conceptos de Arquitectura",
+    "10_Conceptos Generales de Ingeniería/Disponibilidad de la Aplicación.md",
     "09_Principios de IA/Tokenización.md",
     "10_Conceptos Generales de Ingeniería/Estrategia de modelado de la arquitectura por puntos de vista..md",
     "10_Conceptos Generales de Ingeniería",
@@ -192,12 +199,6 @@
     "01_Procesos de Desarrollo/Scrum.md",
     "01_Procesos de Desarrollo/Product Owner.md",
     "01_Procesos de Desarrollo/Product Backlog.md",
-    "01_Procesos de Desarrollo/Sprint Backlog.md",
-    "07_Mantenimiento/Planning Poker.md",
-    "03_Arquitectura y Diseño/Microservicios.md",
-    "01_Procesos de Desarrollo/Taskboard.md",
-    "05_Pruebas/Pruebas Funcionales.md",
-    "07_Mantenimiento/Sprint Planning.md",
-    "01_Procesos de Desarrollo/Definition of Done (DoD).md"
+    "01_Procesos de Desarrollo/Sprint Backlog.md"
   ]
 }
